@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/01 19:29:56.000.474,=C:\Users\Александр\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/01 19:30:16.000.638,C:\!study\4 semestr\ОАиП\Курсовой проект\Проект\Unit1.dfm=C:\Users\Александр\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/06/01 19:30:16.000.638,C:\!study\4 semestr\ОАиП\Курсовой проект\Проект\Unit1.pas=C:\Users\Александр\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/01 19:30:21.000.542,C:\!study\4 semestr\ОАиП\Курсовой проект\Проект\Project1.dproj=C:\Users\Александр\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/06/07 09:38:48.000.891,=C:\!study\4 semestr\ОАиП\Курсовой проект\Проект\Unit2.pas</Transaction>
+    <Transaction>2022/06/13 09:10:57.000.657,=C:\!study\4 semestr\ОАиП\Курсовой проект\Проект\Unit3.pas</Transaction>
+    <Transaction>2022/06/13 13:50:35.000.733,=C:\!study\4 semestr\ОАиП\Курсовой проект\Проект\Unit4.pas</Transaction>
+    <Transaction>2022/06/15 10:26:28.000.520,=C:\!study\4 semestr\ОАиП\Курсовой проект\Проект\Unit4.pas</Transaction>
+    <Transaction>2022/06/15 10:54:43.000.039,C:\!study\4 semestr\ОАиП\Курсовой проект\Проект\Unit4.pas=</Transaction>
+    <Transaction>2022/06/15 10:54:51.000.676,=C:\!study\4 semestr\ОАиП\Курсовой проект\Проект\Unit5.pas</Transaction>
+    <Transaction>2022/06/15 11:52:05.000.285,=C:\!study\4 semestr\ОАиП\Курсовой проект\Проект\Unit6.pas</Transaction>
+    <Transaction>2022/06/22 12:27:50.000.853,=C:\!study\4 semestr\ОАиП\Курсовой проект\Проект\Unit7.pas</Transaction>
+    <Transaction>2022/06/22 12:33:09.000.569,=C:\!study\4 semestr\ОАиП\Курсовой проект\Проект\Unit8.pas</Transaction>
+    <Transaction>2022/06/22 12:35:45.000.103,=C:\!study\4 semestr\ОАиП\Курсовой проект\Проект\Unit9.pas</Transaction>
+    <Transaction>2022/06/22 12:39:06.000.872,=C:\!study\4 semestr\ОАиП\Курсовой проект\Проект\Unit10.pas</Transaction>
+    <Transaction>2022/06/23 11:34:07.000.215,=C:\!study\4 semestr\ОАиП\Курсовой проект\Проект7\Unit11.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit3.pas"/>
+    <File Path="Unit3.dfm"/>
+    <File Path="Unit5.pas"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit6.pas"/>
+    <File Path="Unit6.dfm"/>
+    <File Path="Unit7.pas"/>
+    <File Path="Unit7.dfm"/>
+    <File Path="Unit8.pas"/>
+    <File Path="Unit8.dfm"/>
+    <File Path="Unit9.pas"/>
+    <File Path="Unit9.dfm"/>
+    <File Path="Unit10.pas"/>
+    <File Path="Unit10.dfm"/>
+    <File Path="Unit11.pas"/>
+    <File Path="Unit11.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
